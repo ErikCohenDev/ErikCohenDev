@@ -1,14 +1,12 @@
 ### Hey, I'm Erik Cohen 👋
 
-#### Senior Full Stack Engineer | Crafting Web Solutions That Make a Difference
+#### Senior Full Stack Engineer | Building Web Applications That Make a Difference
 
 ---
 
 **About Me**
-
-Hey there! I'm a web developer who enjoys turning complex problems into simple solutions.
-I love learning new things and teaching others what I've learned along the way.
-When I'm not coding, you can find me in the kitchen trying out new recipes or spending time with my daughter.
+I'm a web developer who enjoys turning complex problems into simple, easy-to-use solutions.
+A US Army veteran and a lifelong learner, I graduated from WGU's Computer Science program and am currently attending Georgia Tech's OMSCS program, specializing in computing systems. When I'm not coding or studying, you can find me in the kitchen trying out new recipes or spending quality time with my daughter.
 I'm all about creating web projects that positively impact people's lives and working with folks who share a similar enthusiasm for making things better.
 
 **Tech Stack and Expertise**
@@ -17,8 +15,9 @@ I'm all about creating web projects that positively impact people's lives and wo
 - **Data & DevOps**: Working with ![BigQuery](https://img.shields.io/badge/-BigQuery-black?style=flat-square&logo=google-cloud), ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch), and ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud) keeps me on my toes.
 
 **Key Projects & Achievements**
+
 *At BenchSci:*
-- Working on an AI-assisted experiment Design platform 
+- Currently contributing to an innovative AI-assisted experiment design platform.
 
 *At Gorilla Logic:*
 
@@ -33,8 +32,7 @@ I'm all about creating web projects that positively impact people's lives and wo
 
 **Connect with Me**
 
-I'm always up for a chat about tech, potential collaborations, or just about anything else.
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/erik-cohen-dev) if you want to talk shop or share ideas!
+I'm always up for a chat about tech, potential collaborations, mentoring, or just about anything else. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/erik-cohen-dev), or if you want to talk shop, exchange ideas, or have any questions about web development, you can also [schedule a meeting](https://calendly.com/erik-cohen-dev) with me via Calendly!
 
 ---
 
