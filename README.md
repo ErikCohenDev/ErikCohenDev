@@ -6,7 +6,10 @@
 
 **About Me**
 
-Hey there! I'm a web developer who enjoys turning complex problems into simple, beautiful solutions. I love learning new things and teaching others what I've learned along the way. When I'm not coding, you can find me in the kitchen trying out new recipes or spending time with my daughter. I'm all about creating web projects that positively impact people's lives and working with folks who share a similar enthusiasm for making things better.
+Hey there! I'm a web developer who enjoys turning complex problems into simple solutions.
+I love learning new things and teaching others what I've learned along the way.
+When I'm not coding, you can find me in the kitchen trying out new recipes or spending time with my daughter.
+I'm all about creating web projects that positively impact people's lives and working with folks who share a similar enthusiasm for making things better.
 
 **Tech Stack and Expertise**
 
@@ -14,6 +17,8 @@ Hey there! I'm a web developer who enjoys turning complex problems into simple, 
 - **Data & DevOps**: Working with ![BigQuery](https://img.shields.io/badge/-BigQuery-black?style=flat-square&logo=google-cloud), ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch), and ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud) keeps me on my toes.
 
 **Key Projects & Achievements**
+*At BenchSci:*
+- Working on an AI-assisted experiment Design platform 
 
 *At Gorilla Logic:*
 
@@ -28,7 +33,8 @@ Hey there! I'm a web developer who enjoys turning complex problems into simple, 
 
 **Connect with Me**
 
-I'm always up for a chat about tech, potential collaborations, or just about anything else. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/erik-cohen-dev) if you want to talk shop or share ideas!
+I'm always up for a chat about tech, potential collaborations, or just about anything else.
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/erik-cohen-dev) if you want to talk shop or share ideas!
 
 ---
 
