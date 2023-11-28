@@ -1,6 +1,6 @@
 ### Hey, I'm Erik Cohen 👋
 
-#### Senior Full Stack Engineer | Building Web Applications That Make a Difference
+#### Senior Full Stack Engineer | Building Imapctful Web Applications
 
 ---
 
@@ -11,8 +11,29 @@ I'm all about creating web projects that positively impact people's lives and wo
 
 **Tech Stack and Expertise**
 
-- **Frontend & Backend**: I use ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react), ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js), ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django), and more to build cool stuff. 
-- **Data & DevOps**: Working with ![BigQuery](https://img.shields.io/badge/-BigQuery-black?style=flat-square&logo=google-cloud), ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch), and ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud) keeps me on my toes.
+- **Languages**: 
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+- **Frontend & Backend**: 
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+  ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+- **Databases**: 
+  ![Postgres](https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+- **Data & DevOps**: 
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-black?style=flat-square&logo=google-cloud)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch)
+  ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+- **Tools**: 
+  ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
 **Key Projects & Achievements**
 
@@ -32,7 +53,8 @@ I'm all about creating web projects that positively impact people's lives and wo
 
 **Connect with Me**
 
-I'm always up for a chat about tech, potential collaborations, mentoring, or just about anything else. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/erik-cohen-dev), or if you want to talk shop, exchange ideas, or have any questions about web development, you can also [schedule a meeting](https://calendly.com/erik-cohen-dev) with me via Calendly!
+I'm always up for a chat about tech, potential collaborations, mentoring, or just about anything else.
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/erik-cohen-dev), or if you want to talk shop, exchange ideas, or have any questions about web development, you can also [schedule a meeting](https://calendly.com/erik-cohen-dev) with me via Calendly!
 
 ---
 
