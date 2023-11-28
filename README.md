@@ -34,4 +34,4 @@ I'm always up for a chat about tech, potential collaborations, or just about any
 
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikCohenDev&show_icons=true&theme=radical)
 
-![Erik's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ErikCohenDev&theme=react-dark)
+[![Erik's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErikCohenDev&bg_color=0b0a0a&color=e6e6e6&line=546187&point=7cb1e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
