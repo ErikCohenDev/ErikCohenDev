@@ -46,7 +46,7 @@ I'm all about creating web projects that positively impact people's lives and wo
 - **YesEnergy**: Worked on a cool platform for energy trading using React and Java.
 - **Primer.ai**: Helped develop an AI-powered tool for making sense of big data.
 
-*At Globant:*
+*At @Globant:*
 
 - **National Geographic (YourShot)**: Contributed to a major photography platform with a big user base.
 - **IDB Bank**: Automated stuff to make accountants' lives easier.
