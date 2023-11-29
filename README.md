@@ -37,19 +37,22 @@ I'm all about creating web projects that positively impact people's lives and wo
 
 **Key Projects & Achievements**
 
-*At BenchSci:*
+*At [BenchSci](https://github.com/BenchSci):*
 - Currently contributing to an innovative AI-assisted experiment design platform.
 
-*At Gorilla Logic:*
+*At [Gorilla Logic](https://github.com/gorillalogic):*
 
 - **TheTradeDesk**: Built a handy Flutter app for ad campaign managers.
 - **YesEnergy**: Worked on a cool platform for energy trading using React and Java.
 - **Primer.ai**: Helped develop an AI-powered tool for making sense of big data.
 
-*At @Globant:*
+*At [Globant](https://github.com/globant):*
 
 - **National Geographic (YourShot)**: Contributed to a major photography platform with a big user base.
 - **IDB Bank**: Automated stuff to make accountants' lives easier.
+
+*At [Huge](https://github.com/hugeinc):*
+- **Thermofisher**: Worked on a complete redesign of the e-commerce experience.
 
 **Connect with Me**
 
