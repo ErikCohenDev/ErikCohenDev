@@ -57,7 +57,7 @@ I'm all about creating web projects that positively impact people's lives and wo
 **Connect with Me**
 
 I'm always up for a chat about tech, potential collaborations, mentoring, or just about anything else.
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/erik-cohen-dev), or if you want to talk shop, exchange ideas, or have any questions about web development, you can also [schedule a meeting](https://calendly.com/erik-cohen-dev) with me via Calendly!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/erik-cohen-dev), or if you want to talk shop, exchange ideas, or have any questions about web development, you can also [schedule a meeting](https://calendly.com/erik-cohen-dev) with me via Calendly!
 
 ---
 
